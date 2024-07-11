@@ -6,3 +6,6 @@
 <b>How to use code:</b>
 <br>
 <p>Download zip and then run the file gui_calculator.py</p>
+<br>
+<b>How code should run:</b>
+<p><img src="calc.png" style="float:right;width:420px;height:420px;"></p>
